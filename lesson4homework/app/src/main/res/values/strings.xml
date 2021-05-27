@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">lesson2-homework</string>
+    <string name="error" translatable="false">error</string>
+    <string name="reload" translatable="false">reload</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">Name</string>
+    <string name="rating">Rating</string>
+    <string name="date">Date</string>
+</resources>
