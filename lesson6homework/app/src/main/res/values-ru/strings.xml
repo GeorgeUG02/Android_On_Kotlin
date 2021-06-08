@@ -1,0 +1,7 @@
+<resources>
+    <string name="name">Название</string>
+    <string name="rating">Рейтинг</string>
+    <string name="date">Дата</string>
+    <string name="description">Описание</string>
+    <string name="genre">Жанр</string>
+</resources>
