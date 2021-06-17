@@ -1,0 +1,10 @@
+<resources>
+    <string name="name">Название</string>
+    <string name="rating">Рейтинг</string>
+    <string name="date">Дата</string>
+    <string name="description">Описание</string>
+    <string name="genre">Жанр</string>
+    <string name="settings">Настройки</string>
+    <string name="adult_content">Невзрослый контент</string>
+    <string name="commentary">Комментарий</string>
+</resources>
